@@ -36,7 +36,7 @@ function CustomNav(props){
     return(
         <header>
         <Navbar bg="dark" variant="dark" className="w-100">
-            <Navbar.Brand href="/react-portfolio-" className="mx-auto pink">Edgar Quintanilla</Navbar.Brand>
+            <Navbar.Brand href="/" className="mx-auto pink">Edgar Quintanilla</Navbar.Brand>
         </Navbar>
   
         <Navbar bg="dark" variant="dark">
