@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9ba25bf6.css",
-    "main.js": "/static/js/main.7313cee5.js",
+    "main.js": "/static/js/main.61db18d5.js",
     "static/media/tutoringapp.png": "/static/media/tutoringapp.04a9796373d37c7f121f.png",
     "static/media/pokemon.png": "/static/media/pokemon.9ecc804f196be1a2c649.png",
     "static/media/weatherapp.png": "/static/media/weatherapp.2dfb952e4a67a0294dc3.png",
@@ -15,10 +15,10 @@
     "static/media/stackoverflow.png": "/static/media/stackoverflow.e8d48dc38b975528f038.png",
     "index.html": "/index.html",
     "main.9ba25bf6.css.map": "/static/css/main.9ba25bf6.css.map",
-    "main.7313cee5.js.map": "/static/js/main.7313cee5.js.map"
+    "main.61db18d5.js.map": "/static/js/main.61db18d5.js.map"
   },
   "entrypoints": [
     "static/css/main.9ba25bf6.css",
-    "static/js/main.7313cee5.js"
+    "static/js/main.61db18d5.js"
   ]
 }
