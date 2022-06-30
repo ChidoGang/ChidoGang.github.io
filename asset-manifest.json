@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ba25bf6.css",
+    "main.js": "/static/js/main.7313cee5.js",
+    "static/media/tutoringapp.png": "/static/media/tutoringapp.04a9796373d37c7f121f.png",
+    "static/media/pokemon.png": "/static/media/pokemon.9ecc804f196be1a2c649.png",
+    "static/media/weatherapp.png": "/static/media/weatherapp.2dfb952e4a67a0294dc3.png",
+    "static/media/icon.jpg": "/static/media/icon.9c338174ba7c909d9c5b.jpg",
+    "static/media/nj.png": "/static/media/nj.517d03c06bdb21d7cae2.png",
+    "static/media/resume.pdf": "/static/media/resume.da7c05e2017a12c40275.pdf",
+    "static/media/pwa.png": "/static/media/pwa.f184188a7a58785d251d.png",
+    "static/media/schedule.png": "/static/media/schedule.9565cbd047402d0bcf64.png",
+    "static/media/Coding.png": "/static/media/Coding.efc04a0adf51ba990daf.png",
+    "static/media/Gen.png": "/static/media/Gen.de65de7d7c5e027fad58.png",
+    "static/media/stackoverflow.png": "/static/media/stackoverflow.e8d48dc38b975528f038.png",
+    "index.html": "/index.html",
+    "main.9ba25bf6.css.map": "/static/css/main.9ba25bf6.css.map",
+    "main.7313cee5.js.map": "/static/js/main.7313cee5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba25bf6.css",
+    "static/js/main.7313cee5.js"
+  ]
+}
